@@ -6,7 +6,7 @@ Static website for the PS 120 Earth Science country project.
 
 - `index.html` — Home page and project overview
 - `about.html` — Personal connection and reflection prompts to personalize
-- `maps-location.html` — Maps, Location, and Cartographers
+- `maps-location.html` — Week 2 maps, location, boundary history, and cartographers
 - `tectonics.html` — Plate Tectonics, Earthquakes, and Volcanoes
 - `weathering-erosion.html` — Weathering, Mass Wasting, and Erosion
 - `water-coasts.html` — Fluvial Processes, Oceans, and Coastlines
@@ -18,6 +18,10 @@ Static website for the PS 120 Earth Science country project.
 - `assets/css/styles.css` — shared responsive styles
 - `assets/js/navigation.js` — accessible mobile hamburger navigation
 - `assets/images/kitty-working.png` — ChatGPT-generated placeholder image
+
+## Week 2 content
+
+The Maps & Location page includes five map views, Ecuador's approximate coordinates and history, a projection note, and a profile of Ecuadorian cartographer Pedro Vicente Maldonado. Map and image sources are linked in each caption and listed in APA style on `references.html`.
 
 ## Preview
 
