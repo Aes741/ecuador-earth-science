@@ -8,7 +8,7 @@ Static website for the PS 120 Earth Science country project.
 - `about.html` — Personal connection and reflection prompts to personalize
 - `maps-location.html` — Week 2 maps, location, boundary history, and cartographers
 - `tectonics.html` — Plate Tectonics, Earthquakes, and Volcanoes
-- `weathering-erosion.html` — Weathering, Mass Wasting, and Erosion
+- `weathering-erosion.html` — Weathering, Mass Wasting, Water and Wind Erosion, Drylands, and Glaciers
 - `water-coasts.html` — Fluvial Processes, Oceans, and Coastlines
 - `climate-biomes.html` — Climate Controls, Biomes, and Climate Change
 - `references.html` — APA-style references
@@ -22,6 +22,10 @@ Static website for the PS 120 Earth Science country project.
 ## Week 2 content
 
 The Maps & Location page includes five map views, Ecuador's approximate coordinates and history, a projection note, and a profile of Ecuadorian cartographer Pedro Vicente Maldonado. Map and image sources are linked in each caption and listed in APA style on `references.html`.
+
+## Week 4 content
+
+The Weathering page covers chemical and biological weathering, the 2023 Alausí landslide, Ecuador's major river systems, the Río Coca erosion crisis, wind erosion and drylands, desertification, and retreating Andean glaciers. Research links and APA references are included on the page and in `references.html`.
 
 ## Preview
 
